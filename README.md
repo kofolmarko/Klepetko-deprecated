@@ -1,3 +1,6 @@
+# DISCLAIMER:
+# For the actual live files and source code of the game, please switch to the phaser branch.
+
 # Klepetko
 
 Klepetko je spletna platforma oblikovana v stilu igrice.
